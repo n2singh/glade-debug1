@@ -24,7 +24,7 @@ A virtual whiteboard
 
 `pnpm -C glade run dev`
 
-`The last command should print a URL like http://localhost:5173/glade/, click that to see the working project in action`
+4. The last command should print a URL like http://localhost:5173/glade/, click that to see the working project in action
 
 ---
 ## Error Message Shown:
