@@ -23,7 +23,7 @@ A virtual whiteboard
 `The last command should print a URL like http://localhost:5173/glade/, click that to see working project in action1`
 ---
 ## Error Message Shown:
-![Error Message 1](image.jpg)
+![](errormessage1.png)
 ---
 ## Hints
 - look at the type of the elements in the error
