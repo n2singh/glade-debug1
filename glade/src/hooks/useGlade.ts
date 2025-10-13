@@ -89,7 +89,7 @@ export default function useGlade(target: MaybeRefOrGetter<HTMLDivElement | null 
 
   async function createImage(src: string) {
     try {
-      const image = await loadImage(src)
+      const image = loadImage(src)
       const width = 500
       const height = (width / image.width) * image.height
 
