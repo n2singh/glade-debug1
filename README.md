@@ -18,8 +18,8 @@ A virtual whiteboard
 2. Open the glade folder in VSCode that you just cloned
 3. In VSCode terminal run the following commands:
 > pnpm install
-> pnpm -r build
-> pnpm -C glade run dev
+pnpm -r build
+pnpm -C glade run dev
 The last command should print a URL like `http://localhost:5173/glade/`, click that to see working project in action
 
 ---
