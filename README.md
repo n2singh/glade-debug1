@@ -17,10 +17,15 @@ A virtual whiteboard
 1. In your terminal, git clone this repository using `git clone https://github.com/n2singh/glade-debug1.git`
 2. Open the glade folder in VSCode that you just cloned
 3. In VSCode terminal run the following commands:
+   
 `pnpm install`
+
 `pnpm -r build`
+
 `pnpm -C glade run dev`
-`The last command should print a URL like http://localhost:5173/glade/, click that to see working project in action1`
+
+`The last command should print a URL like http://localhost:5173/glade/, click that to see the working project in action`
+
 ---
 ## Error Message Shown:
 ![](errormessage1.png)
