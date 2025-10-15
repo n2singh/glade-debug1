@@ -40,4 +40,7 @@ A virtual whiteboard
 ## Hints
 - look at the type of the elements in the error
 - check their return type
+---
+## Intended Behavior
+Clicking the image button and adding an image should have it appear on screen but it doesnt.
 
